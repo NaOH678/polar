@@ -1,2 +1,2 @@
 # polar
-The code and model checkpoints are being organized and will be released soon
+The code is being organized and will be released soon
